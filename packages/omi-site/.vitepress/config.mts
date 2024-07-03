@@ -160,6 +160,7 @@ export default defineConfig({
               { text: '生命周期 Lifecycle', link: '/zh/lifecycle' },
               { text: '指令 Directive', link: '/zh/directive' },
               { text: '混入 Mixin', link: '/zh/mixin' },
+              { text: '组件继承 Inherit', link: '/zh/inherit' },
               { text: '更新 Update', link: '/zh/update' },
               { text: '跨框架', link: '/zh/cross-frameworks' },
             ]
