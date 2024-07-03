@@ -1,0 +1,54 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: #07c160;
+  --vp-c-brand: #07c160;
+  --vp-c-brand-light: #29c173;
+  --vp-c-brand-lighter: #43d088;
+  --vp-c-brand-lightest: #5adf9b;
+  --vp-c-brand-dark: #18b969;
+  --vp-c-brand-darker: #0b9450;
+  --vp-c-brand-darkest: #12834b;
+  --vp-c-brand-dimm: #07c16014;
+
+
+  --vp-c-brand-1: #07c160;
+
+  --vp-code-bg: #cec1c134;
+}
+
+.medium-zoom-overlay {
+  z-index: 20;
+}
+
+.medium-zoom-image {
+  z-index: 21;
+}
+
+.main img {
+  box-shadow: 1px 3px 15px rgba(0, 0, 0, .1);
+  border-radius: 4px;
+  margin: 0px auto 40px;
+}
+
+
+@media (min-width: 640px) {
+
+  .main .name {
+    line-height: 56px;
+    font-size: 44px;
+  }
+
+  .main .text {
+    line-height: 56px;
+    font-size: 40px;
+  }
+
+  .main .tagline {
+    font-size: 20px;
+    white-space: nowrap;
+  }
+}
+
+.VPButton.brand {
+  background-color: #07c160 !important;
+}

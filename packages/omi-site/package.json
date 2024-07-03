@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "vitepress dev",
+    "build": "vitepress build",
+    "pv": "vitepress preview"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.0.8",
+    "omi": "^7.1.14",
+    "omi-ripple": "^0.0.4",
+    "vitepress": "^1.0.0-rc.20"
+  }
+}
