@@ -47,6 +47,6 @@ features:
     linkText: 💯定义跨框架组件
   - title: ⚡ 微小尺寸，极速性能
     details: 支持所有现代浏览器，先进的技术带来先进的性能表现
-    link: https://github.com/Tencent/omi/tree/master/packages/snake-game-2tier
-    linkText: 🐍两层架构的贪吃蛇
+    link: https://github.com/TDesignOteam/tdesign-web-components
+    linkText: 🔥TDesign Web 组件
 ---

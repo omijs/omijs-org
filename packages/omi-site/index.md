@@ -47,8 +47,8 @@ features:
     linkText: 💯Define Cross Framework Component
   - title: ⚡ Tiny Size, Fast Performance
     details: With Tiny Size Code, Supports All Modern Browsers, Fast Performance
-    link: https://github.com/Tencent/omi/tree/master/packages/snake-game-2tier
-    linkText: 🐍Snake Game of 【2】 Layer Architecture
+    link: https://github.com/TDesignOteam/tdesign-web-components
+    linkText: 🔥TDesign Web Components
 ---
 
 <footer style="text-align: center;
