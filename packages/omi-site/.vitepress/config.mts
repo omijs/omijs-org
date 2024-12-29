@@ -74,7 +74,7 @@ export default defineConfig({
             items: [
               { text: 'Introduction', link: '/introduction' },
               { text: 'Reactivity', link: '/reactivity' },
-              { text: 'OOP & DOP', link: '/oop-dop' },
+              // { text: 'OOP & DOP', link: '/oop-dop' },
             ]
           },
           {
@@ -145,7 +145,7 @@ export default defineConfig({
             items: [
               { text: '简介', link: '/zh/introduction' },
               { text: '响应式', link: '/zh/reactivity' },
-              { text: 'OOP & DOP', link: '/zh/oop-dop' },
+              // { text: 'OOP & DOP', link: '/zh/oop-dop' },
             ]
           },
           {
