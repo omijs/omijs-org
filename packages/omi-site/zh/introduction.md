@@ -9,11 +9,11 @@ title: OMI - Web Components 框架
 Omi (读音 /ˈomɪ/，类似于 欧米) 是 Web Components 框架，内置 JSX 和信号 signal/Signal。
 
 
-<em> Omi looks really neat!<br> </em>
+<!-- <em> Omi looks really neat!<br> </em>
 　　　　— [Jason Miller (Creator of Preact)](https://twitter.com/_developit/)
 
 <em> I really like the trend towards "frameworks" that:<br><br>"export default class Component extends HTMLElement {..}"<br> <br>This one, Omi, is from Tencent.</em>       
-　　　　— [Dion Almaer](https://twitter.com/dalmaer/)
+　　　　— [Dion Almaer](https://twitter.com/dalmaer/) -->
 
 ## 快速上手
 

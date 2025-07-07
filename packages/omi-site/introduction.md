@@ -8,11 +8,11 @@ title: OMI - Web Components Framework
 
 Omi (pronounced /ˈomɪ/) is web components framework base JSX and signal.
 
-<em> Omi looks really neat!<br> </em>
+<!-- <em> Omi looks really neat!<br> </em>
 　　　　— [Jason Miller (Creator of Preact)](https://twitter.com/_developit/)
 
 <em> I really like the trend towards "frameworks" that:<br><br>`class Component extends HTMLElement {..}`<br> <br>This one, Omi, is from Tencent.</em>       
-　　　　— [Dion Almaer](https://twitter.com/dalmaer/)
+　　　　— [Dion Almaer](https://twitter.com/dalmaer/) -->
 
 ## Add Omi in One Minute
 
