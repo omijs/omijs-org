@@ -91,6 +91,7 @@ export default defineConfig({
               { text: 'Mixin', link: 'mixin' },
               { text: 'Update', link: '/update' },
               { text: 'Cross Frameworks', link: '/cross-frameworks' },
+              { text: 'exportparts', link: '/exportparts' },
             ]
           },
         ],
@@ -163,6 +164,7 @@ export default defineConfig({
               { text: '组件继承 Inherit', link: '/zh/inherit' },
               { text: '更新 Update', link: '/zh/update' },
               { text: '跨框架', link: '/zh/cross-frameworks' },
+                 { text: 'exportparts', link: '/zh/exportparts' },
             ]
           },
         ],
