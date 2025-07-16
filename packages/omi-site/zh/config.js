@@ -21,6 +21,7 @@ const config = {
           { name: '引用 Ref', md: 'ref' },
           { name: '类名 Class', md: 'class' },
           { name: '扩展 Extend', md: 'extend' },
+          { neme: 'exportparts', md: 'exportparts' },
           // { name: '存储 Store', md: 'store' },
           { name: '样式 CSS', md: 'css' }
         ]
@@ -57,6 +58,7 @@ const config = {
           { name: 'Ref', md: 'ref' },
           { name: 'Class', md: 'class' },
           { name: 'Extend', md: 'extend' },
+          { neme: 'exportparts', md: 'exportparts' },
           // { name: 'Store', md: 'store' },
           { name: 'CSS', md: 'css' }
         ]
